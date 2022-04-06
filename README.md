@@ -1,13 +1,8 @@
 # r0-libft
 # [![lzima's 42 Libft Score](https://badge42.vercel.app/api/v2/cl1nk4f8f004009lb75fyii0c/project/2388538)](https://github.com/JaeSeoKim/badge42)
 
-This project is about coding a C library. It will contain a lot of general purpose functions your programs will rely upon.
-</br >
-</br >
-# char & int
 <h1 align="center">
-    <img alt="42Lausanne" title="42Lausanne" src="https://github.com/MarJC5/42Piscine/blob/main/doc/norminette/42_logo.svg" width="140"> </br>
-    Project n°1 - Libft
+    Project r0 - Libft
     <h4 align="center" style="width: 50%; margin: 2rem auto; font-weight: normal;"> Recode functions from the standard C library, as well as other utility functions reusable throughout the cursus.
     </h4>
 </h1>
